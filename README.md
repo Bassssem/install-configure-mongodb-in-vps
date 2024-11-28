@@ -1,6 +1,6 @@
-### install & configure mongodb in vps
-# MongoDB 6.0.3
-# Ubuntu 22.04
+# install & configure mongodb in vps
+## MongoDB 6.0.3
+## Ubuntu 22.04
 - Verify MongoDb Installed or Not
 ```sh
 mongod --version  
